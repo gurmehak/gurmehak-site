@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Gurmehak Kaur"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - icon: github
+        href: https://github.com/gurmehak
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gurmehak-kaur/
+      - icon: envelope
+        href: "mailto:gurmehak99@gmail.com"
+  page-footer:
+    left: "© 2025 Gurmehak Kaur"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
