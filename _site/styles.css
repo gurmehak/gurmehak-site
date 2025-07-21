@@ -1,0 +1,6 @@
+/* Optional custom styles */
+img.profile-pic {
+  width: 180px;
+  border-radius: 100px;
+  margin-bottom: 1rem;
+}

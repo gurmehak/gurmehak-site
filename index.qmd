@@ -5,57 +5,48 @@ format: html
 
 <img src="ID.jpeg" alt="Gurmehak Kaur" class="profile-pic">
 
-# 👋 Hi, I'm Gurmehak
+# Hi, I'm Gurmehak
 
-I'm an Engineering Program Manager serving the Video Engineering team at Apple.  
-Before this, I worked at McGinnis Chen Associates and completed my Mechanical Engineering degree from [UC Berkeley](https://www.linkedin.com/in/gurmehak-kaur/).  
-I later earned my [Master of Data Science](https://www.linkedin.com/in/gurmehak-kaur/) from UBC.
+About section - [Master of Data Science](https://www.linkedin.com/in/gurmehak-kaur/) from UBC.
 
 ---
 
-## 🧠 Work Experience
+## Work Experience
 
-### 📌 Apple — Engineering Program Manager (Jul 2021 – Present)
-- Lead programs for the Video Engineering team, coordinating cross-functional efforts in San Diego.
-- Deliver strategic initiatives and ensure technical execution at scale.
-
-### 📌 ZS Associates — Analytics Consultant (Jun 2021 – Jul 2024)
+### ZS Associates — Analytics Consultant (Jun 2021 – Jul 2024)
 - Led commercial analytics for pharma clients: market access, drug launch, revenue leakage.
 - Created a KPI library for fraud detection ($11M impact).
 - Managed $13B sales data; automated workflows saving 70% turnaround time.
 
-### 📌 UBC Centre for Brain Health — Data Scientist (May 2025 – Present)
+### UBC Centre for Brain Health — Data Scientist (May 2025 – Present)
 - Rebuilt data pipelines and dashboards for a neuroscience research lab.
 - Migrated workflows to PostgreSQL, and implemented clustering models with Streamlit.
 
-### 📌 WriteLab — Business Operations Manager (2015–2016)
-- Worked full-time at an EdTech startup after freshman year.
-- Contributed to company growth until acquisition by Chegg.
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🧬 Deep Learning for Brain Signals  
+### Deep Learning for Brain Signals  
 [GitHub](https://github.com/gurmehak) — UBC x University of Utah (2025)  
 Designed a biologically inspired RNN to analyze brain-muscle activity and model human balance.  
 
-### 💓 Mortality Risk Prediction in Heart Failure  
+### Mortality Risk Prediction in Heart Failure  
 [GitHub](https://github.com/gurmehak) — UBC (2024)  
 Built a logistic regression model to predict heart failure survival with 82% accuracy. Dockerized for deployment.
 
-### 🪞 IoT Smart Mirror with Face Recognition  
+### IoT Smart Mirror with Face Recognition  
 [GitHub](https://github.com/gurmehak) — NSIT (2021)  
 Created a smart mirror using deep learning, Raspberry Pi, and face recognition with Python + HTML.
 
 ---
 
-## 🏅 Fun Facts & Achievements
+## Fun Facts & Achievements
 
-- 🧠 Co-authored a [deep learning chapter](https://doi.org/10.1016/B978-0-12-824145-5.00005-8) for Elsevier on disease diagnosis  
-- 🥉 Won 3rd place in UBC's Analytics Hackathon (Oct 2024)  
-- 🌍 Lived and worked across India, San Francisco, and Canada  
-- 🎓 Passionate about healthcare, research, and creative tech
+- Co-authored a [deep learning chapter](https://doi.org/10.1016/B978-0-12-824145-5.00005-8) for Elsevier on disease diagnosis  
+- Won 3rd place in UBC's Analytics Hackathon (Oct 2024)  
+- Lived and worked across India, San Francisco, and Canada  
+- Passionate about healthcare, research, and creative tech
 
 ---
 

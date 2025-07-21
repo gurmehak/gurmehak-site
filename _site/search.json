@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Gurmehak Kaur",
+    "section": "🧠 Work Experience",
+    "text": "🧠 Work Experience\n\n📌 Apple — Engineering Program Manager (Jul 2021 – Present)\n\nLead programs for the Video Engineering team, coordinating cross-functional efforts in San Diego.\nDeliver strategic initiatives and ensure technical execution at scale.\n\n\n\n📌 ZS Associates — Analytics Consultant (Jun 2021 – Jul 2024)\n\nLed commercial analytics for pharma clients: market access, drug launch, revenue leakage.\nCreated a KPI library for fraud detection ($11M impact).\nManaged $13B sales data; automated workflows saving 70% turnaround time.\n\n\n\n📌 UBC Centre for Brain Health — Data Scientist (May 2025 – Present)\n\nRebuilt data pipelines and dashboards for a neuroscience research lab.\nMigrated workflows to PostgreSQL, and implemented clustering models with Streamlit.\n\n\n\n📌 WriteLab — Business Operations Manager (2015–2016)\n\nWorked full-time at an EdTech startup after freshman year.\nContributed to company growth until acquisition by Chegg."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Gurmehak Kaur",
+    "section": "📂 Projects",
+    "text": "📂 Projects\n\n🧬 Deep Learning for Brain Signals\nGitHub — UBC x University of Utah (2025)\nDesigned a biologically inspired RNN to analyze brain-muscle activity and model human balance.\n\n\n💓 Mortality Risk Prediction in Heart Failure\nGitHub — UBC (2024)\nBuilt a logistic regression model to predict heart failure survival with 82% accuracy. Dockerized for deployment.\n\n\n🪞 IoT Smart Mirror with Face Recognition\nGitHub — NSIT (2021)\nCreated a smart mirror using deep learning, Raspberry Pi, and face recognition with Python + HTML."
+  },
+  {
+    "objectID": "index.html#fun-facts-achievements",
+    "href": "index.html#fun-facts-achievements",
+    "title": "Gurmehak Kaur",
+    "section": "🏅 Fun Facts & Achievements",
+    "text": "🏅 Fun Facts & Achievements\n\n🧠 Co-authored a deep learning chapter for Elsevier on disease diagnosis\n\n🥉 Won 3rd place in UBC’s Analytics Hackathon (Oct 2024)\n\n🌍 Lived and worked across India, San Francisco, and Canada\n\n🎓 Passionate about healthcare, research, and creative tech\n\n\n📄 Download My Resume"
+  }
+]
