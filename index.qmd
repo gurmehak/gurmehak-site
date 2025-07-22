@@ -7,46 +7,78 @@ format: html
 
 # Hi, I'm Gurmehak
 
-About section - [Master of Data Science](https://www.linkedin.com/in/gurmehak-kaur/) from UBC.
+I’m a curious and detail-oriented data scientist with a background in management consulting. I enjoy uncovering 
+the stories hidden in messy data and turning complex problems into clear, actionable insights.
+
+For three years, I worked at **ZS Associates**, partnering with leading pharmaceutical clients to drive data-backed 
+decision-making. I led projects across market access, forecasting, and revenue recovery — designing scalable 
+analytics solutions that impacted millions in revenue.
+
+I recently completed my [Master of Data Science](https://masterdatascience.ubc.ca/programs/vancouver) at the 
+**University of British Columbia**, where I specialized in machine learning, statistical modeling, cloud 
+computing and time series analysis. I am currently working part-time with the 
+[Centre for Brain Health](https://www.centreforbrainhealth.ca/), developing data pipelines and dashboards to 
+support neuroscience research.
+
+Previously, I earned my Bachelor's degree in **Electronics and Communications Engineering** from 
+[NSIT, University of Delhi](http://www.nsut.ac.in/en/department/Electronics%20and%20Communication%20Engineering), 
+where I built foundational skills in programming, AI, and systems engineering.
 
 ---
 
 ## Work Experience
 
 ### ZS Associates — Analytics Consultant (Jun 2021 – Jul 2024)
-- Led commercial analytics for pharma clients: market access, drug launch, revenue leakage.
-- Created a KPI library for fraud detection ($11M impact).
-- Managed $13B sales data; automated workflows saving 70% turnaround time.
+- Led analytics for pharmaceutical clients covering market access, drug launch, and revenue leakage.
+- Managed over \$13B in longitudinal sales data and developed a KPI library for fraud detection (~\$11M impact).
+- Automated complex workflows into a single dashboard, reducing turnaround time by 70%.
+- Conducted end-to-end analyses and stakeholder presentations to drive business decisions.
+- Served as a subject matter expert in revenue leakage and mentored teams on analytics best practices.
 
 ### UBC Centre for Brain Health — Data Scientist (May 2025 – Present)
-- Rebuilt data pipelines and dashboards for a neuroscience research lab.
-- Migrated workflows to PostgreSQL, and implemented clustering models with Streamlit.
-
+- Modularized and rebuilt data pipelines and dashboards for a neuroscience research lab.
+- Migrated workflows to PostgreSQL and implemented clustering models using Streamlit.
 
 ---
 
 ## Projects
 
-### Deep Learning for Brain Signals  
-[GitHub](https://github.com/gurmehak) — UBC x University of Utah (2025)  
-Designed a biologically inspired RNN to analyze brain-muscle activity and model human balance.  
+### [Deep Learning for Brain Signals](https://github.com/gurmehak/Sensorimotor-lab) (UBC, 2025)
+- Capstone project in collaboration with the University of Utah.  
+- Built a biologically inspired RNN to model brain-muscle activity and simulate human balance.
+- Bridged neuroscience and deep learning to understand motion perception.
 
-### Mortality Risk Prediction in Heart Failure  
-[GitHub](https://github.com/gurmehak) — UBC (2024)  
-Built a logistic regression model to predict heart failure survival with 82% accuracy. Dockerized for deployment.
+### [ImaGenie: Image Augmentation Package](https://github.com/gurmehak/ImaGenie) (UBC, 2025)
+- Developed and documented a Python package for image augmentation.
+- Implemented CI/CD pipelines for automated testing, integration, and deployment.
 
-### IoT Smart Mirror with Face Recognition  
-[GitHub](https://github.com/gurmehak) — NSIT (2021)  
-Created a smart mirror using deep learning, Raspberry Pi, and face recognition with Python + HTML.
+### [RetaiLense: Python Dashboard for Retail Analytics](https://github.com/gurmehak/RetaiLense) (UBC, 2025)
+- Built a Streamlit dashboard for retail data exploration using interactive visualizations.
+- Features include bar charts, trend lines, refund summaries, regional breakdowns, and KPI cards.
+- Supports filters by date range and country for tailored insights.
+
+### [Heart Failure Mortality Risk Prediction](https://github.com/gurmehak/heart-failure-analysis) (UBC, 2024)
+- Built a logistic regression model with 82% accuracy to predict survival outcomes in heart failure.
+- Dockerized the solution for reproducibility.  
+[Read full report](https://github.com/gurmehak/heart-failure-analysis/blob/main/reports/heart-failure-analysis.pdf)
+
+### [Deep Learning for Disease Diagnosis](https://doi.org/10.1016/B978-0-12-824145-5.00005-8)
+- Co-authored a chapter for Elsevier evaluating DL techniques for diagnosing skin and brain conditions.
+- Compared model performance against traditional methods and summarized clinical insights.
+
+### [IoT Smart Mirror with Face Recognition](https://docs.google.com/presentation/d/1Ns1ihXUf44gJLc6uuZxU51eyUDFE1XAPb52KoSL-XH0/edit?slide=id.p) (NSIT, 2021)  
+[Read Report](https://docs.google.com/document/d/1--sOJ6_M4pGuGdtYf4vVzfevgjr05DdS8XQQwcUKKFA/edit)  
+- Built an interactive smart mirror using Raspberry Pi and deep learning for face detection.
+- Integrated Python, JavaScript and HTML for real-time display and recognition.
 
 ---
 
-## Fun Facts & Achievements
+## Fun Facts
 
-- Co-authored a [deep learning chapter](https://doi.org/10.1016/B978-0-12-824145-5.00005-8) for Elsevier on disease diagnosis  
-- Won 3rd place in UBC's Analytics Hackathon (Oct 2024)  
-- Lived and worked across India, San Francisco, and Canada  
-- Passionate about healthcare, research, and creative tech
+- I enjoy watching movies, solving Sudoku puzzles, and swimming.
+- Won 3rd place in UBC’s Analytics Hackathon (Oct 2024).
+- Passionate about healthcare, research, and creative tech.
+- Fluent in English, Punjabi, and Hindi.
 
 ---
 
